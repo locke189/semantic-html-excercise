@@ -1,0 +1,23 @@
+{
+  "name": "semantic-html-excercise",
+  "version": "1.0.0",
+  "description": "Learning about semantic HTML tags",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/locke189/semantic-html-excercise.git"
+  },
+  "author": "Juan Insuasti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/locke189/semantic-html-excercise/issues"
+  },
+  "homepage": "https://github.com/locke189/semantic-html-excercise#readme",
+  "devDependencies": {
+    "parcel": "^2.6.2"
+  }
+}
